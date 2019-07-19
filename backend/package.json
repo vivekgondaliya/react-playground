@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend code goes here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekgondaliya/react-playground.git"
+  },
+  "keywords": [
+    "MERN",
+    "Application"
+  ],
+  "author": "Vivek G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekgondaliya/react-playground/issues"
+  },
+  "homepage": "https://github.com/vivekgondaliya/react-playground#readme"
+}
